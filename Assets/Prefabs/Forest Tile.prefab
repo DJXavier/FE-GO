@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7577708891751281415}
   - component: {fileID: 3676580462100617707}
   m_Layer: 0
-  m_Name: Tile
+  m_Name: Forest Tile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 606a35366dd6ec24a802089cf354728b, type: 2}
+  - {fileID: 2100000, guid: fbf4cd46b2063334c92113699e2911a2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -121,4 +121,5 @@ MonoBehaviour:
   pos:
     x: 0
     y: 0
+  height: 0
   type: 0
